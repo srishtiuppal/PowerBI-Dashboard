@@ -34,7 +34,7 @@ Feel free to explore these dashboards and reports, and connect with me for any q
 ### 4. **Loblaw Sales Dashboard- Banner Performance**
 - **Overview:** Loblaw Sales performance by Banner with top 10 skus🏬.  
 - **Preview:**  
-![Loblaws Dashboard](Loblaw Banner performance.png)  
+![Loblaws Dashboard](Loblaw%20Banner%20performance.png)  
 
 ### 5. **Superstore Sales Dashboard**
 - **Overview:** Classic Superstore dataset analysis focusing on sales, profit, and regional trends 🏬.  
