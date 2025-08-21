@@ -1,6 +1,6 @@
 # 📊 Welcome to my Power BI Portfolio! 🚀
 
-Hi, I’m **Srishti** 👋, a Business Intelligence Coordinator Engineer 📊.  
+Hi, I’m **Srishti** 👋, a Business Analyst 📊.  
 This repository showcases my Power BI projects 📈, where I transform raw data into **actionable insights** 💡.  
 
 Feel free to explore these dashboards and reports, and connect with me for any questions or opportunities 🤝.  
