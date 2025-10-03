@@ -18,7 +18,7 @@ Feel free to explore these dashboards and reports, and connect with me for any q
 
 ### 2. **Pareto Chart top 20 items by Sales**
 - **Overview:** Store Analysis to Showcase top performing items by Sales.
--    
+- **Link:** https://app.powerbi.com/groups/me/reports/e682a9fe-1a97-499b-a89c-1126f3036d82/67a5e7b42c1d084cd2e5?experience=power-bi  
 - **Preview:**  
 ![Pareto Chart](Pareto%20Chart.png)
 
