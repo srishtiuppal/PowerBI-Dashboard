@@ -16,27 +16,33 @@ Feel free to explore these dashboards and reports, and connect with me for any q
 
 ---
 
-### 2. **McDonald’s Menu Analysis Dashboard**
+### 2. **Pareto Chart top 20 items by Sales**
+- **Overview:** Store Analysis to Showcase top performing items by Sales.
+-    
+- **Preview:**  
+![Pareto Chart](Pareto%20Chart.png)
+
+### 3. **McDonald’s Menu Analysis Dashboard**
 - **Overview:** Analysis of McDonald’s menu data 🍔 using Power BI.  
 - **Data Source:** [menu_data.xlsx](menu_data.xlsx)  
 - **Preview:**  
-![McDonald’s Dashboard](Mcd%20sample%20dashboard.png)  
+![McDonald’s Dashboard](Mcd%20sample%20dashboard.png) 
 
 ---
 
-### 3. **Netflix Dashboard**
+### 4. **Netflix Dashboard**
 - **Overview:** Streaming trends and user behavior analysis 📺.  
 - **Preview:**  
 ![Netflix Dashboard](Netflix%20Dashboard.png)  
 
 ---
 
-### 4. **Loblaw Sales Dashboard- Banner Performance**
+### 5. **Loblaw Sales Dashboard- Banner Performance**
 - **Overview:** Loblaw Sales performance by Banner with top 10 skus🏬.  
 - **Preview:**  
 ![Loblaws Dashboard](Loblaw%20Banner%20performance.png)  
 
-### 5. **Superstore Sales Dashboard**
+### 6. **Superstore Sales Dashboard**
 - **Overview:** Classic Superstore dataset analysis focusing on sales, profit, and regional trends 🏬.  
 - **Preview:**  
 ![Superstore Dashboard](Superstore%20dashboard.png)  
