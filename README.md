@@ -14,21 +14,21 @@ Feel free to explore these dashboards and reports, and connect with me for any q
 - **Preview:**  
 ![Loblaws Dashboard](Loblaws%20PowerBI.png)
 
-### 1. **Walmart Sales Dashboard**
+### 2. **Walmart Sales Dashboard**
 - **Overview:** Retail insights on Sales vs Units.  
 - **Preview:**  
-![Loblaws Dashboard](Loblaws%20PowerBI.png)  
+    
 
 ---
 
-### 2. **Pareto Chart top 20 items by Sales**
+### 3. **Pareto Chart top 20 items by Sales**
 - **Overview:** Store Analysis to Showcase top performing items by Sales.
 - **Link:** You can check the [Pareto Analysis Report](https://app.powerbi.com/groups/me/reports/e682a9fe-1a97-499b-a89c-1126f3036d82/67a5e7b42c1d084cd2e5?experience=power-bi) for details.
 
 - **Preview:**  
 ![Pareto Chart](Pareto%20Chart.png)
 
-### 3. **McDonald’s Menu Analysis Dashboard**
+### 4. **McDonald’s Menu Analysis Dashboard**
 - **Overview:** Analysis of McDonald’s menu data 🍔 using Power BI.  
 - **Data Source:** [menu_data.xlsx](menu_data.xlsx)  
 - **Preview:**  
@@ -36,19 +36,19 @@ Feel free to explore these dashboards and reports, and connect with me for any q
 
 ---
 
-### 4. **Netflix Dashboard**
+### 5. **Netflix Dashboard**
 - **Overview:** Streaming trends and user behavior analysis 📺.  
 - **Preview:**  
 ![Netflix Dashboard](Netflix%20Dashboard.png)  
 
 ---
 
-### 5. **Loblaw Sales Dashboard- Banner Performance**
+### 6. **Loblaw Sales Dashboard- Banner Performance**
 - **Overview:** Loblaw Sales performance by Banner with top 10 skus🏬.  
 - **Preview:**  
 ![Loblaws Dashboard](Loblaw%20Banner%20performance.png)  
 
-### 6. **Superstore Sales Dashboard**
+### 7. **Superstore Sales Dashboard**
 - **Overview:** Classic Superstore dataset analysis focusing on sales, profit, and regional trends 🏬.  
 - **Preview:**  
 ![Superstore Dashboard](Superstore%20dashboard.png)  
