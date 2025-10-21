@@ -18,7 +18,7 @@ Feel free to explore these dashboards and reports, and connect with me for any q
 - **Overview:** Retail insights on Sales vs Units.  
 - **Preview:**  
      
-![Loblaws Dashboard](Walmart.png)
+![Walmart Dashboard](Walmart.png)
 ---
 
 ### 3. **Pareto Chart top 20 items by Sales**
