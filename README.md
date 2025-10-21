@@ -12,6 +12,11 @@ Feel free to explore these dashboards and reports, and connect with me for any q
 ### 1. **Loblaws Power BI Dashboard**
 - **Overview:** Retail insights focusing on sales and customer trends.  
 - **Preview:**  
+![Loblaws Dashboard](Loblaws%20PowerBI.png)
+
+### 1. **Walmart Sales Dashboard**
+- **Overview:** Retail insights on Sales vs Units.  
+- **Preview:**  
 ![Loblaws Dashboard](Loblaws%20PowerBI.png)  
 
 ---
